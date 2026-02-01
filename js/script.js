@@ -58,24 +58,6 @@ window.addEventListener('scroll', () => {
     });
 });
 
-// ========== HEADER SCROLL EFFECT (OPTIONAL) ==========
-let lastScroll = 0;
-const nav = document.querySelector('nav');
-
-window.addEventListener('scroll', () => {
-    const currentScroll = window.pageYOffset;
-    
-    if (currentScroll > lastScroll && currentScroll > 100) {
-        // Scrolling down
-        nav.style.transform = 'translateY(-100%)';
-    } else {
-        // Scrolling up
-        nav.style.transform = 'translateY(0)';
-    }
-    
-    lastScroll = currentScroll;
-});
-
 // ========== CONSOLE MESSAGE ==========
 console.log('%c DONTUCONSTRUCTION ', 'background: #1A1A1D; color: #D4AF37; font-size: 20px; font-weight: bold; padding: 10px;');
 console.log('%c Building Excellence Across England ', 'background: #C9A961; color: #1A1A1D; font-size: 14px; padding: 5px;');
