@@ -1,0 +1,23 @@
+# Images Folder
+
+Put your construction images here.
+
+## Recommended Images:
+
+1. **IMG 1** - Residential Construction
+   - Suggested name: `residential.jpg`
+   - Ideal size: 800x600px or higher
+
+2. **IMG 2** - Commercial Projects
+   - Suggested name: `commercial.jpg`
+   - Ideal size: 800x600px or higher
+
+3. **IMG 3** - Renovation & Refurbishment
+   - Suggested name: `renovation.jpg`
+   - Ideal size: 800x600px or higher
+
+## Tips:
+- Use high-quality images
+- Recommended formats: JPG, PNG, WebP
+- Keep file sizes under 500KB for faster loading
+- Use descriptive filenames
